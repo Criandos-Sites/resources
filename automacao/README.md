@@ -10,4 +10,6 @@ Use o [modelo de recurso](../templates/recurso.md). Adicione abaixo uma entrada 
 
 ## Índice
 
-Ainda não há contribuições nesta categoria. Ao adicionar a primeira, substitua esta frase pelo link e uma descrição curta.
+- [Awesome MCP Servers](https://github.com/ever-works/awesome-mcp-servers) — catálogo comunitário de servidores MCP para conectar agentes a ferramentas e serviços. Idioma: inglês; gratuito.
+
+Verificado em 10/09/2026.

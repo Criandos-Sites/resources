@@ -10,4 +10,8 @@ Use o [modelo de recurso](../templates/recurso.md). Adicione abaixo uma entrada 
 
 ## Índice
 
-Ainda não há contribuições nesta categoria. Ao adicionar a primeira, substitua esta frase pelo link e uma descrição curta.
+- [21st.dev Components](https://21st.dev/community/components) — biblioteca comunitária de componentes de interface. Idioma: inglês; acesso gratuito.
+- [ASIMOV Design Systems](https://ds.asimov.academy/) — referência em português sobre design systems e construção consistente de interfaces.
+- [Magic UI](https://magicui.design/) — componentes animados para interfaces web. Idioma: inglês; acesso gratuito.
+
+Verificados em 10/09/2026.

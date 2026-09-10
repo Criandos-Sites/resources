@@ -10,4 +10,6 @@ Use o [modelo de recurso](../templates/recurso.md). Adicione abaixo uma entrada 
 
 ## Índice
 
-Ainda não há contribuições nesta categoria. Ao adicionar a primeira, substitua esta frase pelo link e uma descrição curta.
+- [Mostrador físico de cota de IA](https://www.tabnews.com.br/trindadebra/cansei-de-descobrir-na-marra-que-tinha-estourado-a-cota-da-ia-entao-construi-um-mostrador-pra-mesa) — relato prático sobre a criação de um dispositivo para acompanhar consumo de IA. Idioma: português; gratuito.
+
+Verificado em 10/09/2026.
