@@ -10,4 +10,7 @@ Use o [modelo de recurso](../templates/recurso.md). Adicione abaixo uma entrada 
 
 ## Índice
 
-Ainda não há contribuições nesta categoria. Ao adicionar a primeira, substitua esta frase pelo link e uma descrição curta.
+- [PageSpeed Insights](https://pagespeed.web.dev/) — análise de desempenho, acessibilidade, SEO e boas práticas de páginas web. Idioma: multilíngue; gratuito.
+- [RTK](https://github.com/rtk-ai/rtk) — utilitário de terminal que compacta saídas comuns para reduzir o contexto consumido por agentes. Idioma: inglês; gratuito e de código aberto.
+
+Verificados em 10/09/2026.
